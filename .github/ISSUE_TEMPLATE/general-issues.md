@@ -1,5 +1,5 @@
 ---
-name: Issue Tempalte
+name: General Issues
 about: The default issue template
 title: ''
 labels: ''
